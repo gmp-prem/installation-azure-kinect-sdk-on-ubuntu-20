@@ -85,3 +85,6 @@ LABEL="k4a_logic_rules_end"
 ```
 k4aviewer
 ```
+![Screenshot](img.png)
+
+You should see streaming image like this
