@@ -88,3 +88,7 @@ k4aviewer
 ![Screenshot](img.png)
 
 You should see streaming image like this
+
+## 5. ROS Driver
+
+If you use ROS, microsoft also deploy ROS driver compatible for Azure kinect DK from this [link](https://github.com/microsoft/Azure_Kinect_ROS_Driver/tree/melodic).
