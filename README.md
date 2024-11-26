@@ -1,4 +1,6 @@
-# Installation of Azure Kinect Sensor SDK on Linux Ubuntu 20.04
+# Installation of Azure Kinect Sensor SDK on Linux Ubuntu 20.04 and newer ubuntu version
+
+✔️ Tested on linux ubuntu 22.04LTS, and it's working fine
 
 To install the azure kinect sensor sdk on linux ubuntu without adding keys, you must get the latest binaries file from this repository itself
 
